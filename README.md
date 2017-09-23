@@ -1,2 +1,2 @@
 # Photo-Editor
-Implicit Intent
+Android Implicit Intent
