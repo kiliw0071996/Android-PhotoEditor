@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Photo</string>
+    <string name="filter">Filter</string>
+    <string name="img">Choose Photo</string>
+</resources>
